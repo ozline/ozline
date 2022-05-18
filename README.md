@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Deadline Soldier
+
+Boy
+
+Like many but not master any
+
+Do not know what should to pursue
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozline&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
