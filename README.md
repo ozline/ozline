@@ -1,26 +1,13 @@
 ### Hi there 👋
 
-<!--
-**ozline/ozline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student majoring in software engineering(SE) at Fuzhou University, China.
 
-Here are some ideas to get you started:
+I'm passionate about the golang, but I can also be responsible for front-end development projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have a certain love for parallel computing.
 
-Deadline Trigger
-
-Gamer 
-
-Fans of sleep
-
-a man with zzz ...
-
-![Metrics](https://metrics.lecoq.io/ozline?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+## Activity
+<div>
+	<img height="150px" src="https://github-readme-stats.vercel.app/api?username=ozline&show_icons=true&bg_color=00000000">
+	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozline&layout=compact">
+</div>
