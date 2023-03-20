@@ -1,10 +1,10 @@
 ## Hi, I'm ozline 👋
 
-A student majoring in software engineering(SE) at Fuzhou University, China.
+(I'm) a student majoring in software engineering(SE) at Fuzhou University, China.
 
-I'm passionate about the golang, but I can also be responsible for front-end development projects.
+I love the golang and can also handle front-end development projects.
 
-I also have a certain love for parallel computing and my lab is working on this.
+Parallel computing is another topic that interests me, and I'm a member of our school's supercomputing lab because of it.
 
 ## More
 Welcome to:
