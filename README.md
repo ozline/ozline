@@ -15,6 +15,6 @@ Welcome to:
 
 ## Activity
 <div>
-	<img height="150px" src="https://github-readme-status-gules.vercel.app/api?username=ozline&show_icons=true&bg_color=00000000&hide_title=true&show_icons=true&line_height=21" />
-	<img height="150px" src="https://github-readme-status-gules.vercel.app/api/top-langs/?username=ozline&layout=compact&hide_title=true&show_icons=trueline_height=21" />
+	<img height="150px" src="https://github-readme-status.vercel.app/api?username=ozline&show_icons=true&bg_color=00000000&hide_title=true&show_icons=true&line_height=21" />
+	<img height="150px" src="https://github-readme-status.vercel.app/api/top-langs/?username=ozline&layout=compact&hide_title=true&show_icons=trueline_height=21" />
 </div>
