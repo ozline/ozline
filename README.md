@@ -11,7 +11,8 @@ Welcome to:
 
 - Read more about me from my [blog](https://www.ozline.icu/)
 - Talk with me by [email](mailto:ozlinex@outlook.com) or [telegram](https://t.me/ozlinex)
-- Follow me on [twitter](https://twitter.com/ozliinex) 
+- Follow me on [twitter](https://twitter.com/ozliinex)
+- Play with me on [steam](https://steamcommunity.com/id/OZLIINEX/)
 
 ## Activity
 <div>
